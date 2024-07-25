@@ -69,7 +69,7 @@ For this project you will fork this codebase:
   * If you’re the owner of this codebase, create a new repository called `AirBnB_clone_v4` and copy over all files from `AirBnB_clone_v3`
   * If you didn’t install Flasgger from the previous project, it’s time! `sudo pip3 install flasgger`
 
-  * [AirBnB_clone_v4](./AirBnB_clone_v4)
+  * [AirBnB_clone_v4](https://github.com/kelvinnmuia/AirBnB_clone_v4.git)
 
 **1. Cash only**
 
